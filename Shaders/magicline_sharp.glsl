@@ -1,5 +1,5 @@
-float psx = 1 / 192.0;
-float psy = 1 / 128.0;
+float psx = 1.0 / 192.0;
+float psy = 1.0 / 128.0;
 vec4 effect( vec4 color, Image texture, vec2 texture_coords, vec2 screen_coords ){
   vec4 pixel = Texel(texture, texture_coords); //This is the current pixel color
   
