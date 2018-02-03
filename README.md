@@ -12,4 +12,4 @@ A collection of LIKO-12 Post shaders, made by different people.
 ## Credits:
 
 * `blackwhite`,`blackwhite_fade`,`color_channels`,`desync`,`flip`,`green`,`magicline`,`magicline_sharp`,`magicline_thin`,`multiply`,`negative`,`noise`,`pencil`,`repeat`,`repeat_flip`,`time_fade` by @RamiLego4Game.
-* `scanline` by @nukeop.
+* `scanlines`,`blue`,`crt` by @nukeop.
